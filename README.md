@@ -3,7 +3,7 @@
 - String Anagram Detection
 
 ## Home (React)
-[Click here](https://farizindrad.github.io/React-tic-tac-toe/](https://farizindrad.github.io/technical-test/))
+[Click here](https://farizindrad.github.io/technical-test/)
 - Array Manipulation Challenge with React
 - String Anagram Detection with React
 - Responsive Form with React
