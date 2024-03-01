@@ -1,8 +1,12 @@
-# React + Vite
+## Vanila JavaScript
+- Array Manipulation Challenge
+- String Anagram Detection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Home (React)
+[Click here](https://farizindrad.github.io/React-tic-tac-toe/](https://farizindrad.github.io/technical-test/))
+- Array Manipulation Challenge with React
+- String Anagram Detection with React
+- Responsive Form with React
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Responsive Form
+- Using tailwindcss for styling  
